@@ -9,4 +9,10 @@ public class Test1 {
 	  System.out.println("Hello World Test");
 	  System.out.println("**************************");
   }
+  @Test
+  public void f2() {
+	  System.out.println("**************************");
+	  System.out.println("Hello Selenium Test 2");
+	  System.out.println("**************************");
+  }
 }
