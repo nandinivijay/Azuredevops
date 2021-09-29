@@ -15,4 +15,11 @@ public class Test1 {
 	  System.out.println("Hello Selenium Test 21");
 	  System.out.println("**************************");
   }
+  
+  @Test
+  public void f3() {
+	  System.out.println("**************************");
+	  System.out.println("Hello Java Test 3");
+	  System.out.println("**************************");
+  }
 }
